@@ -1,6 +1,6 @@
 # Computer Networks Portfolio
 
-A collection of laboratory assignments and network packet analysis from the Computer Networks course at IU-VNUHCM.
+A collection of laboratory assignments, network packet analysis, and device configurations from the Computer Networks course at International University - VNUHCM.
 
 ## 📌 Table of Contents
 
@@ -11,8 +11,15 @@ A collection of laboratory assignments and network packet analysis from the Comp
 | | - HTTP Protocol Analysis | | ✅ Completed |
 | | - UDP Protocol Analysis | | ✅ Completed |
 | | - TCP Protocol Analysis | | 🚧 Work in Progress |
+| **Lab 3** | [Network Layer: IP Protocol & Fragmentation](./03-wireshark-ip) | Wireshark, PingPlotter | ✅ Completed |
+| **Lab 4** | [Basic Switch & Router Configuration](./04-packet-tracer-config) | Cisco Packet Tracer | ✅ Completed |
+| | - 0. Learn to Use Packet Tracer | | ✅ Completed |
+| | - 2.5.5 Configure Initial Switch Settings | | ✅ Completed |
+| | - 2.7.6 Implement Basic Connectivity | | ✅ Completed |
+| | - 10.1.4 Configure Initial Router Settings | | ✅ Completed |
 
 ## 🛠️ Tools & Technologies
-- **Packet Analyzer:** Wireshark
-- **Protocols Investigated:** HTTP, TCP, UDP, IP, Ethernet
+- **Packet Analyzer:** Wireshark, PingPlotter
+- **Network Simulation:** Cisco Packet Tracer (Cisco IOS CLI)
+- **Protocols Investigated:** HTTP, TCP, UDP, IP, ICMP, Ethernet
 - **Environment:** Windows
